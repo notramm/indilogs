@@ -40,7 +40,7 @@ A clean, full-stack blogging platform where users can write, publish, and explor
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/indilogs.git
+git clone https://github.com/notramm/indilogs.git
 cd indilogs
 ```
 
